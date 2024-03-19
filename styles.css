@@ -6,7 +6,10 @@ main{
     min-height: 100vh;
 }
 
-
+header{
+    box-sizing: border-box;
+    box-shadow: 0 3px #0000001f;
+}
 
 .center{
     display: flex;
@@ -15,8 +18,8 @@ main{
 }
 
 
+
 .logo{
-    
     width: 4%;
     height: 4%;
     display: flex;
