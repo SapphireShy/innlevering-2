@@ -2,8 +2,22 @@ body{
     margin: 0%;
 }
 
-h1{
+main{
+    min-height: 100vh;
+}
+
+
+
+.center{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.logo{
+    
+    width: 4%;
+    height: 4%;
+    display: flex;
 }
